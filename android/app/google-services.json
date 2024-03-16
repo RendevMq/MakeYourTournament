@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "939815465727",
+    "project_id": "tournomakerproject",
+    "storage_bucket": "tournomakerproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939815465727:android:c28b004912dfd53ab452ca",
+        "android_client_info": {
+          "package_name": "pe.int2pr.s4_integration2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939815465727-7rlubuvq38fj1gailn4t2dblkblpth68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyConLIbqa3Vkun0z_2cxVYHN4h9d4GwuZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939815465727-7rlubuvq38fj1gailn4t2dblkblpth68.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "939815465727-3vqoqf0ltn2nl8se4ed9gji2dqmc5d0i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.s2Footballapitest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
